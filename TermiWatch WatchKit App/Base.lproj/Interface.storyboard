@@ -21,7 +21,7 @@
                     <items>
                         <group width="1" alignment="left" layout="vertical" spacing="2" id="6PL-bo-ZK7" userLabel="Terminal Group">
                             <items>
-                                <label alignment="left" text="user@watch:~ $ now" textAlignment="left" id="bcc-Ix-MUn">
+                                <label alignment="left" text="hogeya@watch:~ $ now" textAlignment="left" id="bcc-Ix-MUn">
                                     <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
                                     <variation key="device=watch38mm">
                                         <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
@@ -236,18 +236,6 @@
                                         </label>
                                     </items>
                                 </group>
-                                <label alignment="left" text="user@watch:~ $ " textAlignment="left" id="V36-NY-x0W">
-                                    <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="14"/>
-                                    <variation key="device=watch38mm">
-                                        <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="12"/>
-                                    </variation>
-                                    <variation key="device=watch42mm">
-                                        <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="13"/>
-                                    </variation>
-                                    <variation key="device=watch44mm">
-                                        <fontDescription key="font" name="SFMono-Regular" family="SF Mono" pointSize="16"/>
-                                    </variation>
-                                </label>
                             </items>
                             <edgeInsets key="margins" left="0.0" right="0.0" top="11" bottom="0.0"/>
                             <variation key="device=watch44mm">
